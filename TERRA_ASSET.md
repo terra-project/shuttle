@@ -44,6 +44,7 @@ CW20 or Terra native tokens can be relayed to Ethereum/BSC networks.
 | ANC    | 0x0F3ADC247E91c3c50bC08721355A41037E89Bc20 | 0x93e9012b0a9DA6d5EeA352c56e22B4Ad7225fC33 |                                            |
 | aUST   | 0xa8De3e3c934e2A1BB08B010104CcaBBD4D6293ab | 0x006479f75D6622AE6a21BE17C7F555B94c672342 |                                            |
 | mCOIN  | 0x1e25857931F75022a8814e0B0c3a371942A88437 | 0x807eD0f8149E66Cb74E340bbB298a28E9233181c |                                            |
+| LOTA   | 0xA2385f28798CD2Efe3329365e5A602004D776C38 | 0x50c05aD380ae01E1Fa21Cac47959d4aca2849cAa |                                            |
 
 ## BEP20 Contracts on BSC (Binance Smart Chain)
 

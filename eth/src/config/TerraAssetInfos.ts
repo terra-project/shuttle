@@ -85,6 +85,9 @@ const assetInfos: {
       contract_address: 'terra19mkj9nec6e3y5754tlnuz4vem7lzh4n0lc2s3l',
       is_eth_asset: true,
     },
+    LOTA: {
+      contract_address: 'terra1v000amr8a59r88p33ec2kk9xqe047g7zzqqaf4',
+    },
   },
   'columbus-4': {
     LUNA: {
@@ -155,6 +158,9 @@ const assetInfos: {
     },
     mCOIN: {
       contract_address: 'terra18wayjpyq28gd970qzgjfmsjj7dmgdk039duhph',
+    },
+    LOTA: {
+      contract_address: 'terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr',
     },
   },
 };

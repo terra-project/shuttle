@@ -250,6 +250,9 @@ const contractInfos: {
     bETH: {
       contract_address: '0xDD7e8f8047D78bB103FAb4bAc1259Da207Da3861',
     },
+    LOTA: {
+      contract_address: '0x50c05aD380ae01E1Fa21Cac47959d4aca2849cAa',
+    },
   },
   mainnet: {
     minter: {
@@ -323,6 +326,9 @@ const contractInfos: {
     },
     mCOIN: {
       contract_address: '0x1e25857931F75022a8814e0B0c3a371942A88437',
+    },
+    LOTA: {
+      contract_address: '0xA2385f28798CD2Efe3329365e5A602004D776C38',
     },
   },
 };
